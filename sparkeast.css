@@ -1,0 +1,29 @@
+.section .reveal .state-background {
+  background-size: 1440px 900px; background-image: url("SparkEastBgHeader.png"); 
+  background-position: center; background-repeat: no-repeat; background-color: lightgray
+} 
+
+
+.headerslide .reveal h1,
+.headerslide .reveal h2,
+.headerslide .reveal p {
+  color: black;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+	font-family: Tahoma
+}
+
+.reveal .slides section {
+
+  }
+
+body { 
+  background-size: 100%; background-image: url("SparkEastBgStd.png"); 
+  background-position: center; background-repeat: no-repeat; background-color: white;
+  }
